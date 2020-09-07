@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Bloom9900/TravisCI.svg?branch=master)](https://travis-ci.com/Bloom9900/TravisCI)
 
 Ultra simple Java Project meant for a Travis introduction
 
